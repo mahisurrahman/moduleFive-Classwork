@@ -149,3 +149,35 @@ main{
     font-weight: 800;
     text-shadow: 2px 5px 7px lightgray;
 }
+
+#whatIdo{
+    padding: 30px 150px;
+}
+
+.skills-container{
+    display: flex;
+}
+
+.skill{
+    padding: 30px 33px;
+    margin: 0px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.skill >img{
+    padding: 20px 0px;
+}
+
+.skill >h3{
+    padding-bottom: 20px;
+    color: #181818;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+}
+.skill > p{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
